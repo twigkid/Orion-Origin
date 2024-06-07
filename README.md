@@ -1,6 +1,8 @@
 # ORION // ORIGIN
 The first orion glitcher in the series.
 
+!https://github.com/twigkid/Orion-Origin/blob/main/RobloxScreenShot20240607_170233809.png?raw=true
+
 Song pack link: https://drive.google.com/file/d/1Dv4vN9bBsk980GqNsQ_I4IID0PFv9YXq/view?usp=sharing
 Release require: require(16912818625).load("user")
 

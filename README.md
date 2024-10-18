@@ -1,6 +1,6 @@
 # *ORION // ORIGIN*
 The first Orion in the series.
-Orion // Origin (AKA Orion Collapse) was a project by twigkid @AlgodooUser123, two other people have worked on it during it's development.
+Orion // Origin (AKA Orion Collapse) was a project by twigkid @AlgodooUser123, two other people have worked on it during its development.
 It was made after the now discontinued Cosmos Glitcher series from 2022 - 2023
 It had two attacks: A Explosion-like attack binded to left click & Homing missile attack binded to "Z"
 

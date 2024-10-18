@@ -10,9 +10,9 @@ by: twigkid, maximilito and chip.
 
 # 1154 (Release version)
 Includes: main source, input source and .rbxm of the script.
+![Picture of "MURDEREN" (Version 1154)](RobloxScreenShot20241018_183553645.png)
 # 830 (Pre-wing rework) (24th Feburary)
 Includes: main source, input source and .rbxm of the script.
 Has: Old wings, old ui
+![Picture of "MURDEREN" (Version 830)](RobloxScreenShot20241018_184141113.png)
 
-![Picture of "MURDEREN" (Version 1154)](RobloxScreenShot20241018_183553645.png)
-![Picture of "404-FORBIDDEN" (Version 830)](RobloxScreenShot20240607_170233809.png)

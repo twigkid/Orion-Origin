@@ -10,7 +10,7 @@ by: twigkid, maximilito and chip.
 
 Song pack link: https://drive.google.com/file/d/1Dv4vN9bBsk980GqNsQ_I4IID0PFv9YXq/view?usp=sharing
 
-# 1154 (Release Version, 7th June 2024)
+# 1154 (Release Version, March 29th 2024)
 Includes: main source, input source and .rbxm of the script.
 ![Picture of "MURDEREN" (Version 1154)](RobloxScreenShot20241018_183553645.png)
 
